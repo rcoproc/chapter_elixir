@@ -1,6 +1,6 @@
 # Chapter Elixir
 
-### Resumo das aulas do chapter em GO realizado pelos colaboradores da Bionexo
+### Resumo das aulas do chapter em GO realizado pelos devs.
 
 #### Chapter I : 23/11/2019 - Participantes: Ricardo Oliveira, Luan Pontolio, Márcio Soares, Guilherme Kalil, Tiago Rossi, Celso Lopes, Vinicius Silveira. Conteúdo:
 
